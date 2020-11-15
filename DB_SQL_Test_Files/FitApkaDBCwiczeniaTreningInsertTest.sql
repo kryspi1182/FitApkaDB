@@ -1,0 +1,8 @@
+INSERT [dbo].[CwiczeniaTrening] VALUES (1, 2)
+INSERT [dbo].[CwiczeniaTrening] VALUES (1, 4)
+INSERT [dbo].[CwiczeniaTrening] VALUES (2, 1)
+INSERT [dbo].[CwiczeniaTrening] VALUES (2, 2)
+INSERT [dbo].[CwiczeniaTrening] VALUES (2, 3)
+INSERT [dbo].[CwiczeniaTrening] VALUES (3, 6)
+INSERT [dbo].[CwiczeniaTrening] VALUES (4, 5)
+INSERT [dbo].[CwiczeniaTrening] VALUES (5, 1)

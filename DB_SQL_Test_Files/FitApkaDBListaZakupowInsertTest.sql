@@ -1,0 +1,6 @@
+INSERT [dbo].[ListaZakupow] VALUES (1, 'Lista1', 1)
+INSERT [dbo].[ListaZakupow] VALUES (2, 'Lista2', 4)
+INSERT [dbo].[ListaZakupow] VALUES (3, 'Lista3', 2)
+INSERT [dbo].[ListaZakupow] VALUES (4, 'Lista4', 6)
+INSERT [dbo].[ListaZakupow] VALUES (5, 'Lista5', 3)
+INSERT [dbo].[ListaZakupow] VALUES (6, 'Lista6', 5)

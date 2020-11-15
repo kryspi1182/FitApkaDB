@@ -1,0 +1,7 @@
+INSERT [dbo].[Cwiczenia] VALUES (1, 'cwiczenie1', 'cwiczenie1 opis', 10)
+INSERT [dbo].[Cwiczenia] VALUES (2, 'cwiczenie2', 'cwiczenie2 opis', 20)
+INSERT [dbo].[Cwiczenia] VALUES (3, 'cwiczenie3', 'cwiczenie3 opis', 30)
+INSERT [dbo].[Cwiczenia] VALUES (4, 'cwiczenie4', 'cwiczenie4 opis', 40)
+INSERT [dbo].[Cwiczenia] VALUES (5, 'cwiczenie5', 'cwiczenie5 opis', 50)
+INSERT [dbo].[Cwiczenia] VALUES (6, 'cwiczenie6', 'cwiczenie6 opis', 60)
+INSERT [dbo].[Cwiczenia] VALUES (7, 'cwiczenie7', 'cwiczenie7 opis', 70)

@@ -1,0 +1,6 @@
+INSERT [dbo].[Uzytkownik] VALUES (1, 'Uzytkownik1', 'uzytkownik1@mail.com', 0, 10, 110, 10, 0, 'haslo1')
+INSERT [dbo].[Uzytkownik] VALUES (2, 'Uzytkownik2', 'uzytkownik2@mail.com', 1, 20, 120, 20, 1, 'haslo2')
+INSERT [dbo].[Uzytkownik] VALUES (3, 'Uzytkownik3', 'uzytkownik3@mail.com', 0, 30, 130, 30, 2, 'haslo3')
+INSERT [dbo].[Uzytkownik] VALUES (4, 'Uzytkownik4', 'uzytkownik4@mail.com', 1, 40, 140, 40, 0, 'haslo4')
+INSERT [dbo].[Uzytkownik] VALUES (5, 'Uzytkownik5', 'uzytkownik5@mail.com', 0, 50, 150, 50, 1, 'haslo5')
+INSERT [dbo].[Uzytkownik] VALUES (6, 'Uzytkownik6', 'uzytkownik6@mail.com', 1, 60, 160, 60, 2, 'haslo6')
